@@ -21,6 +21,8 @@ public class UserInput {
         System.out.println("Enter age:");
         float age= sc.nextFloat();
 
+
+
         System.out.println(number);
         System.out.println(name);
         System.out.println(age);
