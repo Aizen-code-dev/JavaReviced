@@ -15,6 +15,8 @@ public class ControlStatement {
             //continue statement
             if (i==2){
                 continue;
+
+
             }
 
             System.out.println(i);
