@@ -38,6 +38,8 @@ public class TwoInput {
 
 
         }
+        sc.close();
+
 
     }
 }
